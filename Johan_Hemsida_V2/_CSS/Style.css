@@ -274,3 +274,19 @@ svg {
     align-self: center;
     justify-self: center;
 }
+
+.kontakt{
+    margin: 200px auto auto auto;
+    width: 700px;
+    -webkit-filter: drop-shadow(5px 5px 5px rgba(34, 34, 34, 0.466));
+    filter: drop-shadow(5px 5px 5px rgba(34, 34, 34, 0.39));
+    opacity: 0.5;
+}
+
+.kontakt-info {
+    height: 200px;
+    color: rgb(83, 83, 83);
+    position: relative;
+    text-align: center;    
+    top: -660px;
+}
