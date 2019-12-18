@@ -1,0 +1,14 @@
+#Path {
+    stroke-dashoffset: 10000;
+    stroke-dasharray: 10000;
+    animation-name: padda;
+    animation-duration: 15s;
+    animation-timing-function: ease-in;  
+    animation-fill-mode: forwards;               
+}
+
+@keyframes padda {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
